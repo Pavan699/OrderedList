@@ -6,7 +6,8 @@ namespace OrderedListProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Ordered List Program");          
+            Console.WriteLine("Welcome To Ordered List Program");
+            OrdList.ListOrder();
         }
     }
 }
